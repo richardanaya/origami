@@ -8,8 +8,7 @@ html, body {
 }
 
 body {
-  max-width: 80rem;
-  margin: auto;
+  margin: 4rem;
 }
 
 a { 
@@ -26,27 +25,28 @@ i {
 }
 
 h1 {
-  font-size: 7.438rem;
-}
-
-h2 {
-  font-size: 5.563rem;
-}
-
-h3 {
   font-size: 4.188rem;
 }
 
-h4 {
+h2 {
   font-size: 3.125rem;
 }
 
-h5 {
+h3 {
   font-size: 2.313rem;
 }
 
-h6 {
+h4 {
   font-size: 1.75rem;
+}
+
+h5 {
+  font-size: 1.313rem;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: bold;
 }
 
 p {
