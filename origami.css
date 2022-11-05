@@ -5,6 +5,7 @@ html, body {
   background: transparent;  
   font-family: Montserrat, Helvetica, Arial, Noto Sans, sans-serif;
   font-weight: 200;
+  color: rgba(0, 0, 0, .7);
 }
 
 body {
@@ -14,6 +15,8 @@ body {
 a { 
   font-weight: 400;
   text-decoration: underline;
+  box-shadow: 0 0px 6px rgba(200, 200, 200, .4);
+  background: rgba(200,200,200,.4);
 }
 
 b {
