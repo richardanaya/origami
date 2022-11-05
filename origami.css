@@ -12,6 +12,11 @@ body {
   margin: auto;
 }
 
+a { 
+  font-weight: 400;
+  text-decoration: underline;
+}
+
 b {
   font-weight: 400;
 }
