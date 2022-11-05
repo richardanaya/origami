@@ -7,6 +7,11 @@ html, body {
   font-weight: 100;
 }
 
+body {
+  max-width: 80rem;
+  margin: auto;
+}
+
 b {
   font-weight: 400;
 }
