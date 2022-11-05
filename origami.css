@@ -48,3 +48,7 @@ h5 {
 h6 {
   font-size: 1.75rem;
 }
+
+p {
+  margin: 1rem 0;
+}
