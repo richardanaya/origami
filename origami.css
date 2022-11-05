@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,700;1,400&display=swap');
 
 html, body {
   background: transparent;  
-  font-family: 'Sen', sans-serif;
+  font-family: Montserrat, Helvetica, Arial, Noto Sans, sans-serif;
 }
