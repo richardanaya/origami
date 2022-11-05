@@ -50,6 +50,6 @@ h6 {
   font-weight: bold;
 }
 
-p {
+p, dt, ol, ul {
   margin: 1rem 0;
 }
