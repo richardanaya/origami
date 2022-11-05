@@ -2,7 +2,7 @@
 
 A css reset script based around augmented-reality with principled assumptions:
 
-* transparent background
+* transparent page background
 * calm aesthetic that can fit into a person's home
 * large enough visibility for common distances in AR environments
 
