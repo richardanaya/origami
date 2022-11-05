@@ -16,6 +16,7 @@ a {
   font-weight: 400;
   box-shadow: 0 0px 6px rgba(200, 200, 200, .4);
   background: rgba(200,200,200,.4);
+  text-decoration: none;
 }
 
 a:hover {
