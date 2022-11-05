@@ -8,6 +8,6 @@ A css reset script based around augmented-reality with principled assumptions:
 
 # Usage
 
-```
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/richardanaya/origami/origami.css">
 ```
