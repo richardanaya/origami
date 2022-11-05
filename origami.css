@@ -1,10 +1,10 @@
 @import url("https://cdn.jsdelivr.net/npm/the-new-css-reset/css/reset.css");
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,400;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;1,200&display=swap');
 
 html, body {
   background: transparent;  
   font-family: Montserrat, Helvetica, Arial, Noto Sans, sans-serif;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 body {
